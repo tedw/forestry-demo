@@ -6,8 +6,24 @@
     <description>Recent content on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2015 23:12:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 16:28:19 -0500</lastBuildDate>
     <atom:link href="https://tedw.github.io/forestry-demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://tedw.github.io/forestry-demo/posts/hello-world/</link>
+      <pubDate>Thu, 02 Feb 2017 16:28:19 -0500</pubDate>
+      
+      <guid>https://tedw.github.io/forestry-demo/posts/hello-world/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tedw.github.io/forestry-demo/uploads/2017/02/02/homer-internet.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Contact</title>

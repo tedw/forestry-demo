@@ -1,4 +1,4 @@
-baseurl = "http://example.com"
+baseurl = "https://tedw.github.io/forestry-demo/"
 languagecode = "en-us"
 pluralizelisttitles = false
 title = "Adventure Time!"
